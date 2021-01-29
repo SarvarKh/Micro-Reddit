@@ -2,7 +2,7 @@
 > This is a simple Mini-Reddit with terminal interaction built in Ruby on Rails.
 
 <div align="center">
-  <img src="screenshot.png?raw=true" width="600" height="500"/>
+  <img src="screenshot.png?raw=true" width="auto" height="auto"/>
 </div>
 
 **What you can do with this mini-reddit**
@@ -34,7 +34,7 @@ To get a local copy up and running follow these simple example steps.
 
 Please Note that you must have Git installed on your PC, this can be done [here](https://gist.github.com/derhuerst/1b15ff4652a867391f03).
 
-## How to run JS Mini Linter?
+## How to run Mini-Reddit?
 
 1. Follow Getting Started section to download the game
 2. Open/navigate to the project directory in your terminal
